@@ -1,0 +1,5 @@
+{
+    github: {
+        secret: INSERT_YOUR_SECRET_HERE
+    }
+}
